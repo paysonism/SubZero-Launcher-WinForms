@@ -10,12 +10,12 @@ but this can be used however you want. Below you can see some previews of what i
 
 # Features
 
-[X] Custom Themes
-[X] Save Theme
-[X] Auto Update
-[X] Animations
-[X] Tabs
-[X] Login System
+ - Custom Themes
+ -  Save Theme
+ - Auto Update
+ - Animations
+ - Tabs
+ - Login System
 
 # More Info
 
